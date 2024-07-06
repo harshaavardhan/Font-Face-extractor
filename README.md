@@ -31,6 +31,9 @@ Open your web browser and go to http://localhost:8501.
 
 2) The app will display the @font-face declarations in a table and list the CSS files considered.
 
+   ![image](https://github.com/harshaavardhan/Font-Face-extractor/assets/35565940/4a8c17e7-854a-4ddd-9d19-2a25d2d575f0)
+
+
 Error Handling
 SSL self-signed certificate errors are handled.
 If the URL does not respond or does not allow scraping, an appropriate error message is displayed.
